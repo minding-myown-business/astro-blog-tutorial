@@ -9,6 +9,8 @@ image:
 tags: ["astro", "blogging", "learning in public"]
 ---
 
+<!-- markdownlint-disable MD025 -->
+
 # My First Blog Post
 
 Published on: 2022-07-01
